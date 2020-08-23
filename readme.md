@@ -1,0 +1,1 @@
+Grab config (here)[https://raw.githubusercontent.com/CodeZebby/qlconfig/master/zebby.cfg].
